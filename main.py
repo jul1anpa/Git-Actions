@@ -1,6 +1,6 @@
 def main():
-  hello()
-  bye()
+    hello()
+    bye()
 
 
 def hello():
