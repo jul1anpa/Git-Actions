@@ -1,2 +1,2 @@
 # Git-Actions
-Repository to test Github Actions CI/CD
+Repository to test GitHub Actions CI/CD
