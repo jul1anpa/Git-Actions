@@ -1,10 +1,15 @@
+def main():
+  hello()
+  bye()
+
+
 def hello():
-  print("Hello, World!")
+    print("Hello, World!")
 
 
 def bye():
-  print("Goodbye, World!")
+    print("Goodbye, World!")
 
 
 if __name__ == "__main__":
-  bye()
+    main()
